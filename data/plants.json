@@ -1,0 +1,128 @@
+[
+  {
+    "id": "P-01",
+    "name": "فیکوس بنجامین ابلق",
+    "scientific": "Ficus benjamina",
+    "english": "Variegated Weeping Fig",
+    "category": "گیاه آپارتمانی"
+  },
+  {
+    "id": "P-02",
+    "name": "سانسوریا هانی ابلق",
+    "scientific": "Dracaena trifasciata 'Golden Hahnii'",
+    "english": "Golden Bird's Nest Snake Plant",
+    "category": "گیاه آپارتمانی"
+  },
+  {
+    "id": "P-03",
+    "name": "نخل دم‌اسبی (لیندا)",
+    "scientific": "Beaucarnea recurvata",
+    "english": "Ponytail Palm",
+    "category": "گیاه آپارتمانی"
+  },
+  {
+    "id": "P-04",
+    "name": "دراسنا سبز (شناسایی احتمالی)",
+    "scientific": "Dracaena sp. (tentative)",
+    "english": "",
+    "category": "گیاه آپارتمانی"
+  },
+  {
+    "id": "P-05",
+    "name": "گندمی سبز (شناسایی احتمالی)",
+    "scientific": "Chlorophytum comosum (tentative)",
+    "english": "Spider Plant (tentative)",
+    "category": "گیاه آپارتمانی"
+  },
+  {
+    "id": "P-06",
+    "name": "کاکتوس پیوندی کلاه‌قرمزی",
+    "scientific": "Gymnocalycium mihanovichii (scion, tentative)",
+    "english": "Grafted Moon Cactus",
+    "category": "کاکتوس و ساکولنت"
+  },
+  {
+    "id": "P-07",
+    "name": "کاکتوس پیوندی کلاه‌زرد",
+    "scientific": "Gymnocalycium mihanovichii (scion, tentative)",
+    "english": "Yellow Grafted Moon Cactus",
+    "category": "کاکتوس و ساکولنت"
+  },
+  {
+    "id": "P-08",
+    "name": "پتوس سبز",
+    "scientific": "Epipremnum aureum",
+    "english": "Golden Pothos (green form)",
+    "category": "گیاه آپارتمانی"
+  },
+  {
+    "id": "P-09",
+    "name": "پتوس سبز",
+    "scientific": "Epipremnum aureum",
+    "english": "Golden Pothos",
+    "category": "گیاه آپارتمانی"
+  },
+  {
+    "id": "P-10",
+    "name": "هاورتیا گورخری (ترکیب ساکولنت‌ها)",
+    "scientific": "Haworthiopsis attenuata",
+    "english": "Zebra Haworthia",
+    "category": "کاکتوس و ساکولنت"
+  },
+  {
+    "id": "P-11",
+    "name": "نخل ماداگاسکار",
+    "scientific": "Pachypodium lamerei",
+    "english": "Madagascar Palm",
+    "category": "کاکتوس و ساکولنت"
+  },
+  {
+    "id": "P-12",
+    "name": "گیاه برگ‌نیزه‌ای (شناسایی موقت)",
+    "scientific": "Yucca sp. (احتمالی)",
+    "english": "Spear-leaved plant (provisional)",
+    "category": "کاکتوس و ساکولنت"
+  },
+  {
+    "id": "P-13",
+    "name": "ساکولنت ترکیبی",
+    "scientific": "Sedum spp. / Crassula sp. / Kalanchoe sp. (احتمالی)",
+    "english": "Mixed Succulent Arrangement",
+    "category": "کاکتوس و ساکولنت"
+  },
+  {
+    "id": "P-14",
+    "name": "کاکتوس اپونتیا مینیاتوری",
+    "scientific": "Opuntia sp. (احتمالی)",
+    "english": "Prickly Pear Cactus",
+    "category": "کاکتوس و ساکولنت"
+  },
+  {
+    "id": "P-15",
+    "name": "لدبوریا خال‌دار، پیاز نقره‌ای",
+    "scientific": "Ledebouria socialis",
+    "english": "Silver Squill",
+    "category": "کاکتوس و ساکولنت"
+  },
+  {
+    "id": "P-16",
+    "name": "زامیفولیا سبز",
+    "scientific": "Zamioculcas zamiifolia",
+    "english": "ZZ Plant",
+    "category": "گیاه آپارتمانی"
+  },
+  {
+    "id": "P-17",
+    "name": "آگلونما سفید ابلق",
+    "scientific": "Aglaonema sp.",
+    "english": "Chinese Evergreen",
+    "category": "گیاه آپارتمانی"
+  },
+  {
+    "id": "P-18",
+    "name": "پتوس طلایی",
+    "scientific": "Epipremnum aureum",
+    "english": "Golden Pothos",
+    "category": "گیاه آپارتمانی"
+  }
+]
